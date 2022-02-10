@@ -1,0 +1,10 @@
+buttonEl.addEventListener("click", function() {
+  alert("button clicked");
+});
+undefined
+document.createElement("li");
+<li>​</li>​
+var taskItemEl = document.createElement("li");
+undefined
+var taskItemEl = document.createElement("li");
+undefined

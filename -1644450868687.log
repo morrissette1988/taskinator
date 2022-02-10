@@ -1,0 +1,5 @@
+script.js:2 <button class=​"btn" id=​"save-task">​Add Task​</button>​
+var buttonEl = document.querySelector("#save-task");
+console.log(buttonEl);
+VM261:2 <button class=​"btn" id=​"save-task">​Add Task​</button>​
+undefined
